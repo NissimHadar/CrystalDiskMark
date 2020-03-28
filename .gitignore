@@ -2,3 +2,5 @@
 Build/
 DiskMark.vcxproj.user
 DiskMark.aps
+/Debug
+/x64
